@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br>I'm looking to become a professional in my areas of interest, which include UX/UI, Software Development, and Artificial Intelligence (AI).</p>
+<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Software Development, and Artificial Intelligence (AI). 👾</p>
 
 ###
 
@@ -37,13 +37,5 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="61" alt="figma logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luasemdramin/luasemdramin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luasemdramin/luasemdramin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luasemdramin/luasemdramin/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
