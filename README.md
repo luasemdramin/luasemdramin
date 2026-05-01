@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello World! I'm Laura, be very welcome 💜</h3>
+<h3 align="center">Hello World! I'm Laura, be very welcome 💞 </h3>
 
 ###
 
