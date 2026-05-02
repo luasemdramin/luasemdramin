@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello World! I'm Laura, be very welcome 💞 </h3>
+<h3 align="center">Hello World! I'm Laura, be very welcome 🩷 </h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Software Development, and Artificial Intelligence (AI). 👾</p>
+<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Front-End/Back-end, and Artificial Intelligence (AI). 👾</p>
 
 ###
 
