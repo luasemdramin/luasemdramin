@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1eWhlM250a21ybmR5a25pNGt4eThtZjZsNmpjMnA1dW8zazNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+<img src="./images/readme_background.png" alt="code with laura" />
 </div>
 
-###
+## <img src="./images/bow.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
+<img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; I started studying Systems Analysis and Development this year, but I've passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Front-End/Back-end, and Artificial Intelligence (AI).  <br />
+<img src="./images/mouse.svg" height="20" style="vertical-align: middle;" /> &nbsp; Systems Analysis and Development/ Universidade Cidade de São Paulo <br />
 
-<h3 align="center">Hello World! I'm Laura, be very welcome 🩷 </h3>
-
-###
+## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
 
 <div align="center">
   <a href="www.linkedin.com/in/laladev" target="_blank">
@@ -17,9 +17,6 @@
 </div>
 
 ###
-
-<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Front-End/Back-end, and Artificial Intelligence (AI). 👾</p>
-
 ###
 
 <div align="center">
