@@ -1,53 +1,15 @@
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <div style="
-    background: linear-gradient(135deg, #0084FF 0%, #0066CC 100%);
-    color: white;
-    padding: 12px 20px;
-    border-radius: 18px;
-    max-width: 80%;
-    font-size: 16px;
-    font-weight: 500;
-    word-wrap: break-word;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
-  ">
-  </div>
-<img src="https://img.shields.io/badge/hello%20world%2C%20I'm%20Laura-8B5CF6?style=flat&logoColor=white" alt="greeting"/>
+<<h1 align="center">Hello World! I´m Laura</h1>
+<h3 align="center">Estudante de ADS • Apaixonada por código</h3>
 
-**Estudante de Análise e Desenvolvimento de Sistemas**  
-Universidade Cidade de São Paulo — UNICID
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauramfdossantos&label=Profile%20views&color=0e75b6&style=flat" alt="lauramfdossantos" /> </p>
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/laladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laladev" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Sobre
-
-Estudante do 1º período de Análise e Desenvolvimento de Sistemas na UNICID.  
-Apaixonada por tecnologia desde criança, atualmente estudando Python e explorando  
-desenvolvimento backend/frontend, design UX/UI, inteligência artificial e marketing digital.
-
----
-
-## Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## Contato
-
-[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/laladev) ·
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauramfdossantos&show_icons=true&theme=minimal&hide_border=true)
-
-<sub>Desenvolvido com 💜</sub>
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauramfdossantos&show_icons=true&locale=en" alt="lauramfdossantos" /></p>
 
