@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/Hello%20World%2C%20I'm%20Laura!-FF00FF?style=flat-square&color=FF00FF" alt="message">
-
-</div>
-
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="
     background: linear-gradient(135deg, #0084FF 0%, #0066CC 100%);
