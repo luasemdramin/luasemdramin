@@ -11,7 +11,6 @@
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
   ">
-    💬 Hello World, I'm Laura!
   </div>
 <img src="https://img.shields.io/badge/hello%20world%2C%20I'm%20Laura-8B5CF6?style=flat&logoColor=white" alt="greeting"/>
 
