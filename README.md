@@ -1,34 +1,60 @@
 <div align="center">
-<img src="./images/readme_background.png" alt="code with laura" />
+
+<img src="https://img.shields.io/badge/Hello%20World%2C%20I'm%20Laura!-FF00FF?style=flat-square&color=FF00FF" alt="message">
+
 </div>
 
-## <img src="./images/bow.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; I started studying Systems Analysis and Development this year, but I've passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Front-End/Back-end, and Artificial Intelligence (AI).  <br />
-<img src="./images/mouse.svg" height="20" style="vertical-align: middle;" /> &nbsp; Systems Analysis and Development/ Universidade Cidade de São Paulo <br />
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="
+    background: linear-gradient(135deg, #0084FF 0%, #0066CC 100%);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 18px;
+    max-width: 80%;
+    font-size: 16px;
+    font-weight: 500;
+    word-wrap: break-word;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
+  ">
+    💬 Hello World, I'm Laura!
+  </div>
+<img src="https://img.shields.io/badge/hello%20world%2C%20I'm%20Laura-8B5CF6?style=flat&logoColor=white" alt="greeting"/>
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
+**Estudante de Análise e Desenvolvimento de Sistemas**  
+Universidade Cidade de São Paulo — UNICID
+
+</div>
+
+---
+
+## Sobre
+
+Estudante do 1º período de Análise e Desenvolvimento de Sistemas na UNICID.  
+Apaixonada por tecnologia desde criança, atualmente estudando Python e explorando  
+desenvolvimento backend/frontend, design UX/UI, inteligência artificial e marketing digital.
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/laladev) ·
+
+---
 
 <div align="center">
-  <a href="www.linkedin.com/in/laladev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/652687368989442059" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauramfdossantos&show_icons=true&theme=minimal&hide_border=true)
+
+<sub>Desenvolvido com 💜</sub>
+
 </div>
 
-###
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="61" alt="vscode logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="61" alt="python logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="61" alt="chrome logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="61" alt="canva logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="61" alt="figma logo"  />
-</div>
-
-###
