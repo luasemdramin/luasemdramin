@@ -1,10 +1,63 @@
-<h1 align="center">Hello World! I´m Laura</h1>
-<h3 align="center">Estudante de ADS • Apaixonada por código</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/laladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laladev" height="30" width="40" /></a>
-</p>
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1eWhlM250a21ybmR5a25pNGt4eThtZjZsNmpjMnA1dW8zazNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+###
+
+<h3 align="center">Hello World! I'm Laura, be very welcome 💜</h3>
+
+###
+
+<div align="center">
+
+  <a href="www.linkedin.com/in/laladev" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+  </a>
+
+  <a href="https://discord.com/users/652687368989442059" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+  </a>
+
+  <a href="luasemdramin@gmail.com" target="_blank">
+
+    <img src="https://https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDNwMmZkcDQ1d3A0MjJsZ2llbzR3cG55YzVkcWc1ams4bDlzNTBtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OWmbc1eIhY9uNbCKmo/giphy.gif" height="25" alt="gmail logo"  />
+
+  </a>
+
+</div>
+
+###
+
+<p align="left">Hi! I started studying Systems Analysis and Development this year, but I've always been passionate about technology since I was a child. <br>Currently, I use Python, but I also use VibeCoding to improve my learning in other programming languages. <br></> I'm looking to become a professional in my areas of interest, which include UX/UI, Software Development, and Artificial Intelligence (AI). 👾</p>
+
+###
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="61" alt="vscode logo"  />
+
+  <img width="17" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="61" alt="python logo"  />
+
+  <img width="17" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="61" alt="chrome logo"  />
+
+  <img width="17" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="61" alt="canva logo"  />
+
+  <img width="17" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="61" alt="figma logo"  />
+
+</div>
+
+###
